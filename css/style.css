@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 .logo{
     width: 100px;
     margin-left: 30px;
@@ -42,3 +43,10 @@
     margin-left: 30px;
     margin-top: 30px;
 }
+.text{
+    font-size: 24px;
+    margin-left: 30px;
+    margin-top: 120px;
+    font-family: 'Roboto', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
