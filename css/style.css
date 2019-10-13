@@ -54,7 +54,7 @@
     display: inline-block;
     margin-left: 30px;
     margin-top: 30px;
-   
+   vertical-align: middle;
 }
 .text2{
     font-size: 22px;
@@ -71,6 +71,37 @@
     vertical-align: middle;
 }
 .text3{
+    margin-left: 25px;
+    margin-right: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.section3{
+    background-color: #F2F2F2;
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 30px;
+    vertical-align: middle;
+}
+.text4{
+    font-size: 22px;
+    color: #3D58A6;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 10px;
+    margin-top: 18px;
+    margin-right: 275px;
+    margin-left: 45px;
+}
+.phone{
+    margin-left:25px;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+.text5{ 
     margin-left: 25px;
     margin-right: 25px;
     font-family: 'Roboto', sans-serif;
