@@ -1,0 +1,42 @@
+body{
+    background-color: #FFFFFF;
+}
+.logo{
+    width: 100px;
+    margin-left: 30px;
+    margin-top:30px;
+    vertical-align: middle;
+}
+.nav{
+    display: inline-block;
+    vertical-align: middle;
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+.nav-li{display: inline-block;
+    margin-top:30px;
+    margin-left: 30px;
+}
+.mtavari{
+    font-size: 22px;
+    color:#3D58A6;
+    display: inline-block;
+    text-decoration: none; 
+    list-style: none;
+    vertical-align: middle;
+}
+.siaxleebi{
+    text-decoration: none;
+    font-size: 22px;
+    color:#3D58A6;
+    display: inline-block;
+    list-style: none;
+    vertical-align: middle;
+    
+}
+.kontakti{
+    text-decoration: none;
+    font-size: 22px;
+    color: #EE4036;
+    display: inline-block;
+    list-style: none;
+    vertical-align: middle;
